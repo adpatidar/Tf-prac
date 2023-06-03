@@ -1,2 +1,2 @@
 # Tf-prac
-This  repo is to practice terraform.
+Need to make changes in main.tf according (ami-id and key-name)
